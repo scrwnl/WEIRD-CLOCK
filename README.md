@@ -1,2 +1,3 @@
 # WEIRD-CLOCK
 Fortranで書かれた最悪のWeb時計アプリケーション
+scrwnl/mod_socketに依存しています
